@@ -219,7 +219,7 @@
 
 ## Лицензия
 
-Этот проект лицензирован под [MIT License](LICENSE).
+Этот проект лицензирован под [MIT License](https://mit-license.org/).
 
 ---
 
