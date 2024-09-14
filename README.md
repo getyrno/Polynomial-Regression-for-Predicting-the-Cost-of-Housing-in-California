@@ -173,8 +173,8 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/getyrno/polynomial-regression-for-predicting-the-cost-of-housing-in-California.git
-   cd polynomial-regression-for-predicting-the-cost-of-housing-in-California
+   git clone https://github.com/getyrno/polynomial-regression-predicting-the-cost-of-housing-in-California.git
+   cd polynomial-regression-predicting-the-cost-of-housing-in-California
    ```
 
 2. **Установите необходимые библиотеки:**
@@ -223,6 +223,4 @@
 
 ---
 
-Если у вас есть вопросы или предложения по улучшению проекта, не стесняйтесь открывать issue или отправлять pull request. Удачи в изучении машинного обучения!#   p o l y n o m i a l - r e g r e s s i o n - f o r - p r e d i c t i n g - t h e - c o s t - o f - h o u s i n g - i n - C a l i f o r n i a 
- 
- 
+Если у вас есть вопросы или предложения по улучшению проекта, не стесняйтесь открывать issue или отправлять pull request. Коллеги - удачи!
