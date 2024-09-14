@@ -173,8 +173,8 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/getyrno/polynomial-regression-predicting-the-cost-of-housing-in-California.git
-   cd polynomial-regression-predicting-the-cost-of-housing-in-California
+   git clone https://github.com/getyrno/Polynomial-Regression-for-Predicting-the-Cost-of-Housing-in-California
+   cd Polynomial-Regression-for-Predicting-the-Cost-of-Housing-in-California
    ```
 
 2. **Установите необходимые библиотеки:**
